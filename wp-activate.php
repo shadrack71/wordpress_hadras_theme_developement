@@ -123,6 +123,7 @@ get_header( 'wp-activate' );
 $blog_details = get_site();
 ?>
 
+
 <div id="signup-content" class="widecolumn">
 	<div class="wp-activate-container">
 	<?php if ( ! $key ) { ?>
